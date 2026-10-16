@@ -4,7 +4,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Góc nhỏ của tôi</title>
   <style>
     * { box-sizing: border-box; }
     body {
@@ -36,22 +35,6 @@
       text-align: center;
       color: #94a3b8;
     }
-  </style>
-</head>
-<body>
-  <header>
-    <h2>Góc nhỏ của tôi</h2>
-  </header>
-
-  <main>
-    <h1>Xin chào!</h1>
-    <p>Chào mừng bạn đến với website của tôi.</p>
-
-    <section class="card">
-      <h2>Giới thiệu</h2>
-      <p>Đây là nơi tôi chia sẻ những ý tưởng và dự án của mình.</p>
-    </section>
-
     <section class="card">
       <h2>Liên kết</h2>
       <p>
